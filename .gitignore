@@ -1,18 +1,18 @@
 # Dataset files
-*.csv
-*.xlsx
-*.xls
-*.json
-*.xml
-*.parquet
-*.feather
-*.pickle
-*.pkl
-*.h5
-*.hdf5
-*.db
-*.sqlite
-*.sql
+# *.csv
+# *.xlsx
+# *.xls
+# *.json
+# *.xml
+# *.parquet
+# *.feather
+# *.pickle
+# *.pkl
+# *.h5
+# *.hdf5
+# *.db
+# *.sqlite
+# *.sql
 
 # Python
 __pycache__/
@@ -56,7 +56,7 @@ wheels/
 *.ipynb_checkpoints
 
 # Output files
-output/
+# output/
 *.log
 *.out
 
